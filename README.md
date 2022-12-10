@@ -10,6 +10,7 @@ Our goal is to teach the Lunar Lander (our agent) how to correctly land their sp
 - https://www.reddit.com/r/reinforcementlearning/comments/vqb2wu/tips_and_tricks_for_rl_from_experimental_data/
 - https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html#parameters
 - https://medium.com/aureliantactics/understanding-ppo-plots-in-tensorboard-cbc3199b9ba2
+- https://towardsdatascience.com/how-policy-gradients-in-reinforcement-learning-can-get-you-to-the-moon-15940cbc076a
 <center>
 <video src= "https://user-images.githubusercontent.com/106109665/206821758-a26f28bb-8958-4a19-b773-f394048eb8ff.mp4"controls="controls" style="max-width: 600px;"></center>
 </video>
